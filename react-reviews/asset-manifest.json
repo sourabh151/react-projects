@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eecfdb7b.css",
+    "main.js": "/static/js/main.da6cdc6f.js",
+    "static/media/Susan_Smith.jpg": "/static/media/Susan_Smith.80a56948cd56e63f7ee1.jpg",
+    "static/media/Peter_Jones.jpg": "/static/media/Peter_Jones.60140db4cbafafd12671.jpg",
+    "static/media/Anna_Johnson.jpg": "/static/media/Anna_Johnson.1ae662853fd98900144d.jpg",
+    "static/media/Bill_Anderson.jpg": "/static/media/Bill_Anderson.05c65e9341283e507e43.jpg",
+    "index.html": "/index.html",
+    "main.eecfdb7b.css.map": "/static/css/main.eecfdb7b.css.map",
+    "main.da6cdc6f.js.map": "/static/js/main.da6cdc6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eecfdb7b.css",
+    "static/js/main.da6cdc6f.js"
+  ]
+}
